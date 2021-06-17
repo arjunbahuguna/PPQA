@@ -1,3 +1,5 @@
+1. [Link all submissions (we won "Best Remote Submission")](https://vivli.org/datathon-team-submissions/)<br>
+
 # PPQA - A Privacy-preserving Querying & Analysis Platform for Clinical Trials Data
 For the Vivli Datathon 2019, we've created a project that allows users to query and analyze clinical trials data, with granular control over privacy loss. **Dataset Owners**, who contribute datasets to the platform, can set a privacy budget. When an **Analyst** later requests the data, the querying and analysis algorithms on our platform will maintain the privacy required by the Dataset Owner and adjust the accuracy automatically. This gives Dataset Owners granular control over the privacy of their dataset, while analysts can still get the results they want.
 
